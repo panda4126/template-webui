@@ -1,0 +1,10 @@
+body {
+}
+
+.test {
+  color: White;
+  &.small {
+    font-size: 10pt;
+  }
+}
+
