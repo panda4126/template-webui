@@ -1,7 +1,7 @@
 ### 準備
 
 #### Windowsユーザーの場合
-Macを買ってください。(http://store.apple.co.jp)
+Macを買ってください。(http://store.apple.com/jp)
 
 #### Macユーザーの場合
 
